@@ -1,0 +1,25 @@
+.bg {
+  background: linear-gradient(
+    130deg,
+    #fefaee 0%,
+    #fcd68b 34%,
+    #f9784c 66%,
+    #9c356d 94%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+#main-bg {
+  background: linear-gradient(
+    168deg,
+    #171717 60%,
+    #9c356d 67%,
+    #f9784c 75%,
+    #fcd68b 80%,
+    #fffaef 84%
+  );
+}
+
